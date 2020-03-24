@@ -2,12 +2,10 @@
 title: Home
 sections:
   - type: section_hero
-    section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+    section_id: intro
+    title: Reimagining Human Measurement
+    content: Zephyr is the beginning of the wireless medical revolution
+    image: /images/copy-of-copy-of-untitled.png
     actions:
       - label: Learn More
         url: /features
