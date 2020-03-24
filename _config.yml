@@ -1,7 +1,7 @@
 permalink: '/:title/'
 header:
   title: Zephyr
-  logo_img: /images/logo_alt.png
+  logo_img: ''
   has_nav: true
   menu:
     actions:
@@ -27,7 +27,7 @@ footer:
   tagline: SaaS theme by Stackbit
   logo_img: images/logo_alt.png
   has_social: true
-  content: '&copy; Stackbit. All rights reserved.'
+  content: '&copy; Zephyr. All rights reserved.'
   links:
     - text: Made with Stackbit
       url: 'https://www.stackbit.com'
