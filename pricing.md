@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Packages
 sections:
   - type: section_pricing
     section_id: pricing
