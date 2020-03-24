@@ -8,20 +8,20 @@ sections:
     image: /images/copy-of-copy-of-untitled.png
     actions:
       - label: Learn More
-        url: /features
+        url: /science
   - type: section_features
-    section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    section_id: science
+    title: Science
+    subtitle: Let's show you why it's possible
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+      - title: Features
+        content: |-
+          Wireless
+
+          Non-contact
+
+          Stable
         image: images/feature1.png
         actions:
           - label: Learn More
